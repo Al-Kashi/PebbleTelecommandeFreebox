@@ -1,0 +1,57 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Al-Kashi",
+    "longName": "Freebox Remote Controler",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/Micro.png",
+                "name": "IMAGES_MICRO_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Free.png",
+                "menuIcon": true,
+                "name": "IMAGES_FREE_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "T\u00e9l\u00e9commande Freebox",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "06d065d4-6eb4-428e-854d-430a060cf04f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
